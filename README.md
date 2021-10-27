@@ -2,6 +2,7 @@
   <img alt="Nodejs" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="TypeScript" width="7%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
   <img alt="Prisma" width="7%" src="https://user-images.githubusercontent.com/49520658/138792403-f63c9bb3-7546-43a0-9b04-568a0d95ae89.png" />
+  <img alt="TypeScript" width="7%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
 </h1>
 
 This project was developed during the seventh edition of the online event called [NextLeveLWeek](https://nextlevelweek.com) ministred by [RocketSeat](https://github.com/Rocketseat)
